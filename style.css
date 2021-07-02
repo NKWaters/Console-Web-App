@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    font-family: algerian;
+}
+
+#P {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#P2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#info1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#info2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#info3 {
+    font-size: 20px;
+    font-weight: bold;
+}
